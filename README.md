@@ -1,2 +1,2 @@
-# goit-markup-hw-02
- 
+# Full Stack Developer course
+## Homework Week 2
